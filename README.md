@@ -2,9 +2,10 @@
 
 ##Social Networks for Buildings (SNB) Web App
 ===
-[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/adrianlee44/lorax/blob/master/LICENSE-MIT)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://raw.githubusercontent.com/mkobar/snb-social-web/master/LICENSE)
+![Platform](https://img.shields.io/badge/platform-Web-orange.svg)
 
-for The Stamford Hackathon, Stamford CT 20 Feb 2016
+Entry for The Stamford Hackathon, Stamford CT 20 Feb 2016
 
 ### The Idea
 The idea is to make micro-social networks for building-sized co-located communities, and include the building as both a persona and participant.  Any posts made in the building are automatically aggrated to the building's account and then automatically routed to the correct location or individual in the building (e.g. facilities management, building event coordinators, etc.) and some (most) are also available to all the network members (while in the building).
