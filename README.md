@@ -1,7 +1,7 @@
 # snb-social-web
 
-##Social Networks for Buildings (SNB) Web App
-===
+## Social Networks for Buildings (SNB) Web App
+---
 [![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://raw.githubusercontent.com/mkobar/snb-social-web/master/LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Web-orange.svg)
 
@@ -25,5 +25,6 @@ Please contact me directly if you wish to use this application for your building
 
 ## License
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
-Copyright @ 2016 [RKOSecurity] (http://www.rkosecurity.com)
+Released under the [MIT License](http://opensource.org/licenses/MIT)
+
+Copyright @ 2016 [RKOSecurity](http://www.rkosecurity.com)
